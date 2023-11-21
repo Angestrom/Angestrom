@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angestrom
+- 👋 Hi, I’m @Soumay
 - 👀 I’m interested in WEBDEVELOPING
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on web development
